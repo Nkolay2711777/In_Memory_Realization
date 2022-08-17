@@ -1,0 +1,69 @@
+2022-08-18 01:41:16,262 INFO  MealRestController [MealRestController.java:42] getAll for user 100000
+2022-08-18 01:41:24,644 INFO  MealRestController [MealRestController.java:42] getAll for user 100001
+2022-08-18 01:45:37,160 INFO  MealRestController [MealRestController.java:42] getAll for user 1
+2022-08-18 01:45:47,935 INFO  MealRestController [MealRestController.java:30] get meal 7 for user 1
+2022-08-18 01:45:55,296 INFO  MealRestController [MealRestController.java:56] update Meal{id=7, dateTime=2020-01-31T20:00, description='Ужин', calories=4000} for user 1
+2022-08-18 01:45:55,299 INFO  MealRestController [MealRestController.java:42] getAll for user 1
+2022-08-18 01:45:59,233 INFO  MealRestController [MealRestController.java:36] delete meal 1 for user 1
+2022-08-18 01:45:59,236 INFO  MealRestController [MealRestController.java:42] getAll for user 1
+2022-08-18 01:46:28,287 INFO  MealRestController [MealRestController.java:42] getAll for user 100000
+2022-08-18 01:46:36,465 INFO  MealRestController [MealRestController.java:42] getAll for user 100000
+2022-08-18 01:46:50,184 INFO  MealRestController [MealRestController.java:42] getAll for user 1
+2022-08-18 01:46:59,205 INFO  MealRestController [MealRestController.java:42] getAll for user 2
+2022-08-18 01:47:01,596 INFO  MealRestController [MealRestController.java:30] get meal 9 for user 2
+2022-08-18 01:47:32,183 INFO  MealRestController [MealRestController.java:42] getAll for user 1
+2022-08-18 01:47:37,686 INFO  MealRestController [MealRestController.java:42] getAll for user 100001
+2022-08-18 01:47:43,139 INFO  MealRestController [MealRestController.java:69] getBetween dates(null - null) time(null - null) for user 100001
+2022-08-18 01:47:45,940 INFO  MealRestController [MealRestController.java:42] getAll for user 100000
+2022-08-18 01:47:48,352 INFO  MealRestController [MealRestController.java:42] getAll for user 100000
+2022-08-18 01:47:51,246 INFO  MealRestController [MealRestController.java:42] getAll for user 100000
+2022-08-18 01:48:04,327 INFO  MealRestController [MealRestController.java:49] create Meal{id=null, dateTime=2022-08-18T01:48, description='Полдник', calories=1000} for user 100000
+2022-08-18 01:48:04,329 INFO  MealRestController [MealRestController.java:42] getAll for user 100000
+2022-08-18 01:48:20,591 INFO  MealRestController [MealRestController.java:42] getAll for user 100001
+2022-08-18 01:48:26,861 INFO  MealRestController [MealRestController.java:42] getAll for user 100000
+2022-08-18 01:49:04,820 INFO  MealRestController [MealRestController.java:42] getAll for user 1
+2022-08-18 01:49:08,709 INFO  MealRestController [MealRestController.java:42] getAll for user 1
+2022-08-18 01:49:09,583 INFO  MealRestController [MealRestController.java:42] getAll for user 1
+2022-08-18 01:49:14,073 INFO  MealRestController [MealRestController.java:42] getAll for user 2
+2022-08-18 01:49:26,860 INFO  MealRestController [MealRestController.java:42] getAll for user 1
+2022-08-18 01:49:39,523 INFO  MealRestController [MealRestController.java:42] getAll for user 2
+2022-08-18 01:49:46,021 INFO  MealRestController [MealRestController.java:42] getAll for user 1
+2022-08-18 01:49:51,437 INFO  MealRestController [MealRestController.java:49] create Meal{id=null, dateTime=2022-08-18T01:49, description='завтрак', calories=1000} for user 1
+2022-08-18 01:49:51,439 INFO  MealRestController [MealRestController.java:42] getAll for user 1
+2022-08-18 01:49:56,712 INFO  MealRestController [MealRestController.java:42] getAll for user 2
+2022-08-18 01:50:00,531 INFO  MealRestController [MealRestController.java:42] getAll for user 1
+2022-08-18 01:50:20,168 INFO  MealRestController [MealRestController.java:42] getAll for user 1
+2022-08-18 01:50:34,542 INFO  MealRestController [MealRestController.java:42] getAll for user 100001
+2022-08-18 01:50:45,794 INFO  MealRestController [MealRestController.java:42] getAll for user 100000
+2022-08-18 01:50:55,062 INFO  MealRestController [MealRestController.java:69] getBetween dates(null - null) time(null - null) for user 100000
+2022-08-18 01:50:58,815 INFO  MealRestController [MealRestController.java:42] getAll for user 100000
+2022-08-18 01:51:02,614 INFO  MealRestController [MealRestController.java:42] getAll for user 100001
+2022-08-18 01:51:07,424 INFO  MealRestController [MealRestController.java:42] getAll for user 100000
+2022-08-18 01:51:36,604 INFO  MealRestController [MealRestController.java:30] get meal 10 for user 100000
+2022-08-18 01:51:38,643 INFO  MealRestController [MealRestController.java:56] update Meal{id=10, dateTime=2022-08-18T01:48, description='Полдник', calories=1000} for user 100000
+2022-08-18 01:51:38,646 INFO  MealRestController [MealRestController.java:42] getAll for user 100000
+2022-08-18 01:51:43,918 INFO  MealRestController [MealRestController.java:42] getAll for user 100000
+2022-08-18 01:51:50,145 INFO  MealRestController [MealRestController.java:42] getAll for user 1
+2022-08-18 01:52:03,885 INFO  MealRestController [MealRestController.java:42] getAll for user 2
+2022-08-18 01:59:21,814 INFO  MealRestController [MealRestController.java:42] getAll for user 100000
+2022-08-18 01:59:35,872 INFO  MealRestController [MealRestController.java:42] getAll for user 1
+2022-08-18 01:59:43,344 INFO  MealRestController [MealRestController.java:49] create Meal{id=null, dateTime=2022-08-18T01:59, description='Перекус', calories=1000} for user 1
+2022-08-18 01:59:43,347 INFO  MealRestController [MealRestController.java:42] getAll for user 1
+2022-08-18 01:59:49,937 INFO  MealRestController [MealRestController.java:42] getAll for user 2
+2022-08-18 01:59:55,744 INFO  MealRestController [MealRestController.java:49] create Meal{id=null, dateTime=2022-08-18T01:59, description='ПИЦЦА', calories=1000} for user 2
+2022-08-18 01:59:55,746 INFO  MealRestController [MealRestController.java:42] getAll for user 2
+2022-08-18 02:00:02,093 INFO  MealRestController [MealRestController.java:42] getAll for user 1
+2022-08-18 02:00:06,927 INFO  MealRestController [MealRestController.java:42] getAll for user 2
+2022-08-18 02:00:46,825 INFO  MealRestController [MealRestController.java:42] getAll for user 1
+2022-08-18 02:00:50,858 INFO  MealRestController [MealRestController.java:42] getAll for user 2
+2022-08-18 02:01:09,134 INFO  MealRestController [MealRestController.java:42] getAll for user 1
+2022-08-18 02:02:18,810 INFO  MealRestController [MealRestController.java:42] getAll for user 1
+2022-08-18 02:04:58,784 INFO  MealRestController [MealRestController.java:42] getAll for user 1
+2022-08-18 02:05:08,953 INFO  MealRestController [MealRestController.java:42] getAll for user 2
+2022-08-18 02:05:15,284 INFO  MealRestController [MealRestController.java:42] getAll for user 1
+2022-08-18 02:05:18,818 INFO  MealRestController [MealRestController.java:42] getAll for user 1
+2022-08-18 02:05:27,267 INFO  MealRestController [MealRestController.java:49] create Meal{id=null, dateTime=2022-08-18T02:05, description='ПИЦЦА', calories=1000} for user 1
+2022-08-18 02:05:27,269 INFO  MealRestController [MealRestController.java:42] getAll for user 1
+2022-08-18 02:05:32,415 INFO  MealRestController [MealRestController.java:42] getAll for user 2
+2022-08-18 02:05:36,823 INFO  MealRestController [MealRestController.java:69] getBetween dates(null - null) time(null - null) for user 2
+2022-08-18 02:05:39,317 INFO  MealRestController [MealRestController.java:42] getAll for user 1
